@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\bin\Debug\netcoreapp3.1\DivisorGreatest.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\bin\Debug\netcoreapp3.1\DivisorGreatest.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\bin\Debug\netcoreapp3.1\DivisorGreatest.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\bin\Debug\netcoreapp3.1\DivisorGreatest.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\bin\Debug\netcoreapp3.1\DivisorGreatest.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\bin\Debug\netcoreapp3.1\DivisorGreatest.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\DivisorGreatest\obj\Debug\netcoreapp3.1\DivisorGreatest.genruntimeconfig.cache

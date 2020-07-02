@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\bin\Debug\netcoreapp3.1\isPrime.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\bin\Debug\netcoreapp3.1\isPrime.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\bin\Debug\netcoreapp3.1\isPrime.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\bin\Debug\netcoreapp3.1\isPrime.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\bin\Debug\netcoreapp3.1\isPrime.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\bin\Debug\netcoreapp3.1\isPrime.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\isPrime\obj\Debug\netcoreapp3.1\isPrime.genruntimeconfig.cache

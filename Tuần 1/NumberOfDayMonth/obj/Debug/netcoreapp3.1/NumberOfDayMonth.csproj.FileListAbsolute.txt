@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\bin\Debug\netcoreapp3.1\NumberOfDayMonth.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\bin\Debug\netcoreapp3.1\NumberOfDayMonth.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\bin\Debug\netcoreapp3.1\NumberOfDayMonth.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\bin\Debug\netcoreapp3.1\NumberOfDayMonth.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\bin\Debug\netcoreapp3.1\NumberOfDayMonth.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\bin\Debug\netcoreapp3.1\NumberOfDayMonth.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\NumberOfDayMonth\obj\Debug\netcoreapp3.1\NumberOfDayMonth.genruntimeconfig.cache

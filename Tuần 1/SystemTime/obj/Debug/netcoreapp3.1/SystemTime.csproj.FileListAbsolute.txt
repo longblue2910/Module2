@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\bin\Debug\netcoreapp3.1\SystemTime.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\SystemTime\obj\Debug\netcoreapp3.1\SystemTime.genruntimeconfig.cache

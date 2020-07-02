@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\bin\Debug\netcoreapp3.1\isLeapYear.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\bin\Debug\netcoreapp3.1\isLeapYear.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\bin\Debug\netcoreapp3.1\isLeapYear.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\bin\Debug\netcoreapp3.1\isLeapYear.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\bin\Debug\netcoreapp3.1\isLeapYear.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\bin\Debug\netcoreapp3.1\isLeapYear.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\isLeapYear\obj\Debug\netcoreapp3.1\isLeapYear.genruntimeconfig.cache
