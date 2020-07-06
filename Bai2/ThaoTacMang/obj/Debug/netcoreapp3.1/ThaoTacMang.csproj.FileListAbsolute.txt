@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\bin\Debug\netcoreapp3.1\ThaoTacMang.exe
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\bin\Debug\netcoreapp3.1\ThaoTacMang.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\bin\Debug\netcoreapp3.1\ThaoTacMang.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\bin\Debug\netcoreapp3.1\ThaoTacMang.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\bin\Debug\netcoreapp3.1\ThaoTacMang.dll
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\bin\Debug\netcoreapp3.1\ThaoTacMang.pdb
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.dll
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.pdb
+C:\Users\Long\Documents\Module 2\Bai2\ThaoTacMang\obj\Debug\netcoreapp3.1\ThaoTacMang.genruntimeconfig.cache

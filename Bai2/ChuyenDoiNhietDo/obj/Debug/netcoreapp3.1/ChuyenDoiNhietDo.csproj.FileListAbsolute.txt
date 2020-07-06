@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\ChuyenDoiNhietDo.exe
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\ChuyenDoiNhietDo.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\ChuyenDoiNhietDo.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\ChuyenDoiNhietDo.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\ChuyenDoiNhietDo.dll
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\bin\Debug\netcoreapp3.1\ChuyenDoiNhietDo.pdb
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.dll
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.pdb
+C:\Users\Long\Documents\Module 2\Bai2\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.genruntimeconfig.cache

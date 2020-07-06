@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\bin\Debug\netcoreapp3.1\alertMess.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\bin\Debug\netcoreapp3.1\alertMess.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\bin\Debug\netcoreapp3.1\alertMess.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\bin\Debug\netcoreapp3.1\alertMess.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\bin\Debug\netcoreapp3.1\alertMess.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\bin\Debug\netcoreapp3.1\alertMess.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\alertMess\obj\Debug\netcoreapp3.1\alertMess.genruntimeconfig.cache

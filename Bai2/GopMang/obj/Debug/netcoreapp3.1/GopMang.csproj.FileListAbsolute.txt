@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\bin\Debug\netcoreapp3.1\GopMang.exe
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\bin\Debug\netcoreapp3.1\GopMang.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\bin\Debug\netcoreapp3.1\GopMang.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\bin\Debug\netcoreapp3.1\GopMang.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\bin\Debug\netcoreapp3.1\GopMang.dll
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\bin\Debug\netcoreapp3.1\GopMang.pdb
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.dll
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.pdb
+C:\Users\Long\Documents\Module 2\Bai2\GopMang\obj\Debug\netcoreapp3.1\GopMang.genruntimeconfig.cache

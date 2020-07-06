@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\bin\Debug\netcoreapp3.1\LinearEquationResolver.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\bin\Debug\netcoreapp3.1\LinearEquationResolver.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\bin\Debug\netcoreapp3.1\LinearEquationResolver.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\bin\Debug\netcoreapp3.1\LinearEquationResolver.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\bin\Debug\netcoreapp3.1\LinearEquationResolver.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\bin\Debug\netcoreapp3.1\LinearEquationResolver.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\LinearEquationResolver\obj\Debug\netcoreapp3.1\LinearEquationResolver.genruntimeconfig.cache

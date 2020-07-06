@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\bin\Debug\netcoreapp3.1\FindMin.exe
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\bin\Debug\netcoreapp3.1\FindMin.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\bin\Debug\netcoreapp3.1\FindMin.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\bin\Debug\netcoreapp3.1\FindMin.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\bin\Debug\netcoreapp3.1\FindMin.dll
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\bin\Debug\netcoreapp3.1\FindMin.pdb
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.dll
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.pdb
+C:\Users\Long\Documents\Module 2\Bai2\FindMin\obj\Debug\netcoreapp3.1\FindMin.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\bin\Debug\netcoreapp3.1\FinMax.exe
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\bin\Debug\netcoreapp3.1\FinMax.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\bin\Debug\netcoreapp3.1\FinMax.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\bin\Debug\netcoreapp3.1\FinMax.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\bin\Debug\netcoreapp3.1\FinMax.dll
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\bin\Debug\netcoreapp3.1\FinMax.pdb
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.dll
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.pdb
+C:\Users\Long\Documents\Module 2\Bai2\FinMax\obj\Debug\netcoreapp3.1\FinMax.genruntimeconfig.cache

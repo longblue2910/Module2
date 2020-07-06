@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\bin\Debug\netcoreapp3.1\KhaiBaoSuDungBien.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\bin\Debug\netcoreapp3.1\KhaiBaoSuDungBien.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\bin\Debug\netcoreapp3.1\KhaiBaoSuDungBien.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\bin\Debug\netcoreapp3.1\KhaiBaoSuDungBien.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\bin\Debug\netcoreapp3.1\KhaiBaoSuDungBien.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\bin\Debug\netcoreapp3.1\KhaiBaoSuDungBien.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\KhaiBaoSuDungBien\obj\Debug\netcoreapp3.1\KhaiBaoSuDungBien.genruntimeconfig.cache

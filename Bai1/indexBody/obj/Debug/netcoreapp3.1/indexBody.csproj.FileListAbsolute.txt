@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\bin\Debug\netcoreapp3.1\indexBody.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\bin\Debug\netcoreapp3.1\indexBody.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\bin\Debug\netcoreapp3.1\indexBody.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\bin\Debug\netcoreapp3.1\indexBody.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\bin\Debug\netcoreapp3.1\indexBody.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\bin\Debug\netcoreapp3.1\indexBody.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\indexBody\obj\Debug\netcoreapp3.1\indexBody.genruntimeconfig.cache

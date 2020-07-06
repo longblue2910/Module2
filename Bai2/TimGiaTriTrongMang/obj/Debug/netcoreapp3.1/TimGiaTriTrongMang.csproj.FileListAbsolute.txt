@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriTrongMang.exe
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriTrongMang.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriTrongMang.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriTrongMang.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriTrongMang.dll
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\bin\Debug\netcoreapp3.1\TimGiaTriTrongMang.pdb
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.dll
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.pdb
+C:\Users\Long\Documents\Module 2\Bai2\TimGiaTriTrongMang\obj\Debug\netcoreapp3.1\TimGiaTriTrongMang.genruntimeconfig.cache

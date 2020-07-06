@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai3\HCN\bin\Debug\netcoreapp3.1\HCN.exe
+C:\Users\Long\Documents\Module 2\Bai3\HCN\bin\Debug\netcoreapp3.1\HCN.deps.json
+C:\Users\Long\Documents\Module 2\Bai3\HCN\bin\Debug\netcoreapp3.1\HCN.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai3\HCN\bin\Debug\netcoreapp3.1\HCN.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai3\HCN\bin\Debug\netcoreapp3.1\HCN.dll
+C:\Users\Long\Documents\Module 2\Bai3\HCN\bin\Debug\netcoreapp3.1\HCN.pdb
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.dll
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.pdb
+C:\Users\Long\Documents\Module 2\Bai3\HCN\obj\Debug\netcoreapp3.1\HCN.genruntimeconfig.cache

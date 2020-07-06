@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.exe
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.dll
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.pdb
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.dll
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.pdb
+C:\Users\Long\Documents\Module 2\Bai2\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.genruntimeconfig.cache

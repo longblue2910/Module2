@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\bin\Debug\netcoreapp3.1\DemSinhVienThiDo.exe
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\bin\Debug\netcoreapp3.1\DemSinhVienThiDo.deps.json
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\bin\Debug\netcoreapp3.1\DemSinhVienThiDo.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\bin\Debug\netcoreapp3.1\DemSinhVienThiDo.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\bin\Debug\netcoreapp3.1\DemSinhVienThiDo.dll
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\bin\Debug\netcoreapp3.1\DemSinhVienThiDo.pdb
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.dll
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.pdb
+C:\Users\Long\Documents\Module 2\Bai2\DemSinhVienThiDo\obj\Debug\netcoreapp3.1\DemSinhVienThiDo.genruntimeconfig.cache

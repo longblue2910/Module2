@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\bin\Debug\netcoreapp3.1\USDtoVND.exe
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\bin\Debug\netcoreapp3.1\USDtoVND.deps.json
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\bin\Debug\netcoreapp3.1\USDtoVND.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\bin\Debug\netcoreapp3.1\USDtoVND.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\bin\Debug\netcoreapp3.1\USDtoVND.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\bin\Debug\netcoreapp3.1\USDtoVND.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.dll
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.pdb
+C:\Users\Long\Documents\Module 2\Tuần 1\USDtoVND\obj\Debug\netcoreapp3.1\USDtoVND.genruntimeconfig.cache
