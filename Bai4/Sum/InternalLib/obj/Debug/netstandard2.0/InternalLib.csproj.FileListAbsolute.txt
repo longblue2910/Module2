@@ -1,0 +1,17 @@
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\bin\Debug\netstandard2.0\InternalLib.deps.json
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\bin\Debug\netstandard2.0\InternalLib.dll
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\bin\Debug\netstandard2.0\InternalLib.pdb
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.dll
+D:\CodeGym\Bai2\dotnet-acess-modifier\InternalLib\obj\Debug\netstandard2.0\InternalLib.pdb
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\bin\Debug\netstandard2.0\InternalLib.deps.json
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\bin\Debug\netstandard2.0\InternalLib.dll
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\bin\Debug\netstandard2.0\InternalLib.pdb
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\obj\Debug\netstandard2.0\InternalLib.csprojAssemblyReference.cache
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\obj\Debug\netstandard2.0\InternalLib.AssemblyInfoInputs.cache
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\obj\Debug\netstandard2.0\InternalLib.AssemblyInfo.cs
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\obj\Debug\netstandard2.0\InternalLib.csproj.CoreCompileInputs.cache
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\obj\Debug\netstandard2.0\InternalLib.dll
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\InternalLib\obj\Debug\netstandard2.0\InternalLib.pdb

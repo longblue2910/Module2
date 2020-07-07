@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai4\Change\bin\Debug\netcoreapp3.1\Change.exe
+C:\Users\Long\Documents\Module 2\Bai4\Change\bin\Debug\netcoreapp3.1\Change.deps.json
+C:\Users\Long\Documents\Module 2\Bai4\Change\bin\Debug\netcoreapp3.1\Change.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai4\Change\bin\Debug\netcoreapp3.1\Change.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai4\Change\bin\Debug\netcoreapp3.1\Change.dll
+C:\Users\Long\Documents\Module 2\Bai4\Change\bin\Debug\netcoreapp3.1\Change.pdb
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.dll
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.pdb
+C:\Users\Long\Documents\Module 2\Bai4\Change\obj\Debug\netcoreapp3.1\Change.genruntimeconfig.cache

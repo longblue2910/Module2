@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace VietJackCsharp
+namespace XoaPhanTU
 {
-    class TestCsharp
+    class XoaPhanTU1
     {
         public static void Main()
         {

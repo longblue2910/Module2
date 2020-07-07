@@ -1,0 +1,17 @@
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\bin\Debug\netstandard2.0\PublicLib.deps.json
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\bin\Debug\netstandard2.0\PublicLib.dll
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\bin\Debug\netstandard2.0\PublicLib.pdb
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.dll
+D:\CodeGym\Bai2\dotnet-acess-modifier\PublicLib\obj\Debug\netstandard2.0\PublicLib.pdb
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\bin\Debug\netstandard2.0\PublicLib.deps.json
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\bin\Debug\netstandard2.0\PublicLib.dll
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\bin\Debug\netstandard2.0\PublicLib.pdb
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\obj\Debug\netstandard2.0\PublicLib.csprojAssemblyReference.cache
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\obj\Debug\netstandard2.0\PublicLib.AssemblyInfoInputs.cache
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\obj\Debug\netstandard2.0\PublicLib.AssemblyInfo.cs
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\obj\Debug\netstandard2.0\PublicLib.csproj.CoreCompileInputs.cache
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\obj\Debug\netstandard2.0\PublicLib.dll
+C:\Users\Long\Downloads\dotnet-acess-modifier-master\PublicLib\obj\Debug\netstandard2.0\PublicLib.pdb
