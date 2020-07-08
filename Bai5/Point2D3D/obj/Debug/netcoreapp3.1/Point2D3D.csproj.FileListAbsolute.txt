@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\bin\Debug\netcoreapp3.1\Point2D3D.exe
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\bin\Debug\netcoreapp3.1\Point2D3D.deps.json
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\bin\Debug\netcoreapp3.1\Point2D3D.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\bin\Debug\netcoreapp3.1\Point2D3D.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\bin\Debug\netcoreapp3.1\Point2D3D.dll
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\bin\Debug\netcoreapp3.1\Point2D3D.pdb
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.dll
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.pdb
+C:\Users\Long\Documents\Module 2\Bai5\Point2D3D\obj\Debug\netcoreapp3.1\Point2D3D.genruntimeconfig.cache
