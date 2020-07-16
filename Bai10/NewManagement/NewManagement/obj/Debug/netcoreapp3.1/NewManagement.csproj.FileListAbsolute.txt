@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.exe
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.deps.json
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.dll
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\bin\Debug\netcoreapp3.1\NewManagement.pdb
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.dll
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.pdb
+C:\Users\Long\Documents\Module 2\Bai10\NewManagement\NewManagement\obj\Debug\netcoreapp3.1\NewManagement.genruntimeconfig.cache

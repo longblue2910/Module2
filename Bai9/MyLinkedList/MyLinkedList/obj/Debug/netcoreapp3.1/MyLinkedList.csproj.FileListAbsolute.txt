@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.exe
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.deps.json
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.dll
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.pdb
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.dll
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.pdb
+C:\Users\Long\Documents\Module 2\Bai9\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.genruntimeconfig.cache
