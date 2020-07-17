@@ -6,7 +6,7 @@ namespace Collection_Generic
 {
     class Post : IPost
     {
-        public static int number = 0;
+        public static int counter = 0;
 
         public int ID { get; set; }
         public string Title { get; set; }
@@ -20,7 +20,7 @@ namespace Collection_Generic
         }
         public Post()
         {
-            ID = number++;
+            ID = counter++;
         }
         
 
@@ -30,9 +30,11 @@ namespace Collection_Generic
             Console.WriteLine("Title: " + Title);
             Console.WriteLine("Content: " + Content);
             Console.WriteLine("Author: " + Author);
+            CalculatorRate();
             Console.WriteLine("Averate rate: " + averagerate);
+            
         }
-
+        public int count = 3;
         public int[] RateList = new int[3];
         public int this [int index]
         {
@@ -41,7 +43,12 @@ namespace Collection_Generic
         }
         public void CalculatorRate()
         {
-            averagerate = (float)(RateList[0] + RateList[1] + RateList[2]) / 3;
+            float total = 0;
+            foreach (var item in RateList)
+            {
+                total += item;
+            }
+            averagerate = total / RateList.Length;
         }
     }
 }

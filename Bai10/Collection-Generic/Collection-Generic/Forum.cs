@@ -27,7 +27,6 @@ namespace Collection_Generic
             else
             {
                 Console.WriteLine("Not found");
-
             }
         }
         #region Remove
@@ -45,8 +44,8 @@ namespace Collection_Generic
                 posts[i].Display();
             }
         }
-
         #endregion
+
         #region FindAuthor
         public void FindAuthor(string author)
         {

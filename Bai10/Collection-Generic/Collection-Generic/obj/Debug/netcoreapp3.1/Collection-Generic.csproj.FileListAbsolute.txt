@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\bin\Debug\netcoreapp3.1\Collection-Generic.exe
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\bin\Debug\netcoreapp3.1\Collection-Generic.deps.json
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\bin\Debug\netcoreapp3.1\Collection-Generic.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\bin\Debug\netcoreapp3.1\Collection-Generic.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\bin\Debug\netcoreapp3.1\Collection-Generic.dll
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\bin\Debug\netcoreapp3.1\Collection-Generic.pdb
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.dll
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.pdb
+C:\Users\Long\Documents\Module 2\Bai10\Collection-Generic\Collection-Generic\obj\Debug\netcoreapp3.1\Collection-Generic.genruntimeconfig.cache

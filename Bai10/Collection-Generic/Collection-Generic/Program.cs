@@ -30,18 +30,13 @@ namespace Collection_Generic
                 switch(choice)
                 {
                     case 1:
-                        CreatePost();
+                        Create();
                         break;
                     case 2:
-                        Console.WriteLine("--Update Post--");
-                        int id = ID();
-                        Console.WriteLine("Enter new content: ");
-                        string newContent = Console.ReadLine();
-                        forum.Update(id, newContent);
+                        Update();
                         break;
                     case 3:
-                        int id2 = ID();
-                        forum.Remove(id2);
+                        Remove();
                         break;
                     case 4:
                         forum.Show();
@@ -59,14 +54,11 @@ namespace Collection_Generic
                     default:
                         Console.WriteLine("Not found");
                         break;
-
-
                 }    
             }    
 
         }
-
-        public static void CreatePost()
+        public static void Create()
         {
             Post post = new Post();
             Console.Write("Title: ");
@@ -89,16 +81,17 @@ namespace Collection_Generic
             _ID++;
             forum.Add(post);
         }
-        public static int ID()
+        public static void Update()
         {
-            Console.Write("Enter: ");
-            int id = int.Parse(Console.ReadLine());
-            while (id < 0)
-            {
-                Console.Write("Enter again ID:");
-                id = int.Parse(Console.ReadLine());
-            }
-            return id;
+            int id = ID();
+            Console.WriteLine("Enter new content: ");
+            string newContent = Console.ReadLine();
+            forum.Update(id, newContent);
+        }
+        public static void Remove()
+        {
+            int id2 = ID();
+            forum.Remove(id2);
         }
         public static void Search()
         {
@@ -126,18 +119,29 @@ namespace Collection_Generic
         }
         public static void Rating()
         {
-            Console.WriteLine("Rating by ID");
+            Console.WriteLine("--Rating--");
             int id = ID();
             int index = forum.FindId(id);
             if (index == -1)
             {
-                Console.WriteLine("Invalid Post!");
+                Console.WriteLine("Absurd");
             }
             else
             {
-                Console.WriteLine("Result...");
+                Console.WriteLine("Rating");
                 forum.posts[index].Display();
             }
+        }
+        public static int ID()
+        {
+            Console.Write("Enter: ");
+            int id = int.Parse(Console.ReadLine());
+            while (id < 0)
+            {
+                Console.Write("Enter again ID:");
+                id = int.Parse(Console.ReadLine());
+            }
+            return id;
         }
     }
 }
