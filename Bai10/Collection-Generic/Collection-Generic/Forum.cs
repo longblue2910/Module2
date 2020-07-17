@@ -39,9 +39,16 @@ namespace Collection_Generic
         #region Show
         public void Show()
         {
-            for (int i = 0; i < posts.Count; i++)
+            if (posts.Count != 0)
             {
-                posts[i].Display();
+                foreach (var temp in posts.Keys)
+                {
+                    posts[temp].Display();
+                }
+            }
+            else
+            {
+                Console.WriteLine("Not found");
             }
         }
         #endregion
@@ -49,11 +56,11 @@ namespace Collection_Generic
         #region FindAuthor
         public void FindAuthor(string author)
         {
-            for (int i = 0; i < posts.Count; i++)
+            foreach (var temp in posts.Keys)
             {
-                if (posts[i].Author == author)
+                if (posts[temp].Author == author)
                 {
-                    posts[i].Display();
+                    posts[temp].Display();
                 }
             }
         }
@@ -62,11 +69,11 @@ namespace Collection_Generic
         #region FindContent
         public void FindTitle(string title)
         {
-            for (int i = 0; i < posts.Count; i++)
+            foreach (var temp in posts.Keys)
             {
-                if (posts[i].Title == title)
+                if (posts[temp].Title == title)
                 {
-                    posts[i].Display();
+                    posts[temp].Display();
                 }
             }
         }
@@ -75,11 +82,11 @@ namespace Collection_Generic
         #region FindId
         public int FindId(int id)
         {
-            for (int i = 0; i < posts.Count; i++)
+            foreach (var temp in posts.Keys)
             {
-                if (posts[i].ID == id)
+                if (posts[temp].ID == id)
                 {
-                    return i;
+                    return id;
                 }
             }
             return -1;
