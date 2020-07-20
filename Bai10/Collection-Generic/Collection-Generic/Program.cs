@@ -10,10 +10,9 @@ namespace Collection_Generic
         public static Forum forum = new Forum();
         static void Menu()
         {
-            Console.WriteLine("1. Create Post");
-            Console.WriteLine("2. Update Post");
-            Console.WriteLine("3. Remove Post");
-            Console.WriteLine("4. Show Posts");
+            Console.WriteLine("1. Create Array");
+            Console.WriteLine("2. Check Symetric Array");
+            Console.WriteLine("3. Selection Sort")
             Console.WriteLine("5. Search");
             Console.WriteLine("6. Rating");
             Console.WriteLine("7. Exit");
