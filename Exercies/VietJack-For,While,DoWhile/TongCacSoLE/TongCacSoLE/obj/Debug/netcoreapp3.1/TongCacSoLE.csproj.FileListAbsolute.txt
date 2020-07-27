@@ -1,0 +1,12 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\bin\Debug\netcoreapp3.1\TongCacSoLE.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\bin\Debug\netcoreapp3.1\TongCacSoLE.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\bin\Debug\netcoreapp3.1\TongCacSoLE.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\bin\Debug\netcoreapp3.1\TongCacSoLE.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\bin\Debug\netcoreapp3.1\TongCacSoLE.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\bin\Debug\netcoreapp3.1\TongCacSoLE.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\obj\Debug\netcoreapp3.1\TongCacSoLE.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\obj\Debug\netcoreapp3.1\TongCacSoLE.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\obj\Debug\netcoreapp3.1\TongCacSoLE.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\obj\Debug\netcoreapp3.1\TongCacSoLE.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\obj\Debug\netcoreapp3.1\TongCacSoLE.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\TongCacSoLE\TongCacSoLE\obj\Debug\netcoreapp3.1\TongCacSoLE.genruntimeconfig.cache

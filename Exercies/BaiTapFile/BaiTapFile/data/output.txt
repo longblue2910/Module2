@@ -1,0 +1,13 @@
+Out put
+3 5 4 9 7
+1 2 3 4 5
+2 4 5 6 7
+2 5 6 7 5
+Sum Matrix : 92
+The matrix have 13 prime
+The matrix have 12 odd
+Sum Border Line Matrix : 78
+9	15	12	27	21	
+3	6	9	12	15	
+6	12	15	18	21	
+6	15	18	21	15	

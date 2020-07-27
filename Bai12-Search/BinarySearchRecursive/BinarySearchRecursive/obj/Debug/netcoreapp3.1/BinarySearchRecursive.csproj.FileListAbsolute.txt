@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\bin\Debug\netcoreapp3.1\BinarySearchRecursive.exe
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\bin\Debug\netcoreapp3.1\BinarySearchRecursive.deps.json
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\bin\Debug\netcoreapp3.1\BinarySearchRecursive.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\bin\Debug\netcoreapp3.1\BinarySearchRecursive.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\bin\Debug\netcoreapp3.1\BinarySearchRecursive.dll
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\bin\Debug\netcoreapp3.1\BinarySearchRecursive.pdb
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.dll
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.pdb
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearchRecursive\BinarySearchRecursive\obj\Debug\netcoreapp3.1\BinarySearchRecursive.genruntimeconfig.cache

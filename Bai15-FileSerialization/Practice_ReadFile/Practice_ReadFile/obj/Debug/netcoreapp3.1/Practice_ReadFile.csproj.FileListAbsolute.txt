@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.exe
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.deps.json
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.dll
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.pdb
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.dll
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.pdb
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\Practice_ReadFile\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.genruntimeconfig.cache

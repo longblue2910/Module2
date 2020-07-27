@@ -1,0 +1,12 @@
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\bin\Debug\netcoreapp3.1\FileNotFoundException.exe
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\bin\Debug\netcoreapp3.1\FileNotFoundException.deps.json
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\bin\Debug\netcoreapp3.1\FileNotFoundException.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\bin\Debug\netcoreapp3.1\FileNotFoundException.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\bin\Debug\netcoreapp3.1\FileNotFoundException.dll
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\bin\Debug\netcoreapp3.1\FileNotFoundException.pdb
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\obj\Debug\netcoreapp3.1\FileNotFoundException.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\obj\Debug\netcoreapp3.1\FileNotFoundException.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\obj\Debug\netcoreapp3.1\FileNotFoundException.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\obj\Debug\netcoreapp3.1\FileNotFoundException.dll
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\obj\Debug\netcoreapp3.1\FileNotFoundException.pdb
+C:\Users\Long\Documents\Module 2\Bai14\FileNotFoundException\FileNotFoundException\obj\Debug\netcoreapp3.1\FileNotFoundException.genruntimeconfig.cache

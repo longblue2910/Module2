@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\GiaiThua\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.genruntimeconfig.cache

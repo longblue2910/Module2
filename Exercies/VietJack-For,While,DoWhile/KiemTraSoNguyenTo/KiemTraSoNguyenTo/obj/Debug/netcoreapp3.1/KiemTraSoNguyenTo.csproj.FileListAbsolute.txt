@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\KiemTraSoNguyenTo.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\KiemTraSoNguyenTo.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\KiemTraSoNguyenTo.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\KiemTraSoNguyenTo.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\KiemTraSoNguyenTo.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\KiemTraSoNguyenTo.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.genruntimeconfig.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\KiemTraSoNguyenTo.csprojAssemblyReference.cache

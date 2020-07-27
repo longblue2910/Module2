@@ -1,0 +1,4 @@
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.exe
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai15-FileSerialization\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfo.cs

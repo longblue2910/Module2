@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkZnWWsyC/qeGi2uP36hu4dIDz+dUfdhCaaWN4je6WsHa1pUABX2jQY85ytwAA7CmhsNMyI2IVJSSWvRCDs4sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Long\\Documents\\Module 2\\Bai15-FileSerialization\\JsonDemo\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Long\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

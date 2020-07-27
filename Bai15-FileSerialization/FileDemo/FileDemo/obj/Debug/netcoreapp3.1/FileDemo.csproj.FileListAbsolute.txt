@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.exe
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.deps.json
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.dll
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.pdb
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.dll
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.pdb
+C:\Users\Long\Documents\Module 2\Bai15\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.genruntimeconfig.cache

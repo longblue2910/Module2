@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.exe
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.deps.json
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.dll
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.pdb
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.dll
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.pdb
+C:\Users\Long\Documents\Module 2\Bai14\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.genruntimeconfig.cache

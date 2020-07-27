@@ -1,0 +1,12 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\bin\Debug\netcoreapp3.1\VeTamGiacCan.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\bin\Debug\netcoreapp3.1\VeTamGiacCan.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\bin\Debug\netcoreapp3.1\VeTamGiacCan.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\bin\Debug\netcoreapp3.1\VeTamGiacCan.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\bin\Debug\netcoreapp3.1\VeTamGiacCan.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\bin\Debug\netcoreapp3.1\VeTamGiacCan.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\obj\Debug\netcoreapp3.1\VeTamGiacCan.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\obj\Debug\netcoreapp3.1\VeTamGiacCan.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\obj\Debug\netcoreapp3.1\VeTamGiacCan.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\obj\Debug\netcoreapp3.1\VeTamGiacCan.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\obj\Debug\netcoreapp3.1\VeTamGiacCan.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\VeTamGiacCan\VeTamGiacCan\obj\Debug\netcoreapp3.1\VeTamGiacCan.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\bin\Debug\netcoreapp3.1\DivideByZeroException.exe
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\bin\Debug\netcoreapp3.1\DivideByZeroException.deps.json
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\bin\Debug\netcoreapp3.1\DivideByZeroException.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\bin\Debug\netcoreapp3.1\DivideByZeroException.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\bin\Debug\netcoreapp3.1\DivideByZeroException.dll
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\bin\Debug\netcoreapp3.1\DivideByZeroException.pdb
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\obj\Debug\netcoreapp3.1\DivideByZeroException.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\obj\Debug\netcoreapp3.1\DivideByZeroException.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\obj\Debug\netcoreapp3.1\DivideByZeroException.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\obj\Debug\netcoreapp3.1\DivideByZeroException.dll
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\obj\Debug\netcoreapp3.1\DivideByZeroException.pdb
+C:\Users\Long\Documents\Module 2\Bai14\DivideByZeroException\DivideByZeroException\obj\Debug\netcoreapp3.1\DivideByZeroException.genruntimeconfig.cache

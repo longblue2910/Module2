@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\bin\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\bin\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\bin\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\bin\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\bin\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\bin\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\BangSoNhan1SoBatKy\BangSoNhan1SoBatKy\obj\Debug\netcoreapp3.1\BangSoNhan1SoBatKy.genruntimeconfig.cache

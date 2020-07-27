@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\bin\Debug\netcoreapp3.1\BaiTapFile.exe
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\bin\Debug\netcoreapp3.1\BaiTapFile.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\bin\Debug\netcoreapp3.1\BaiTapFile.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\bin\Debug\netcoreapp3.1\BaiTapFile.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\bin\Debug\netcoreapp3.1\BaiTapFile.dll
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\bin\Debug\netcoreapp3.1\BaiTapFile.pdb
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.dll
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.pdb
+C:\Users\Long\Documents\Module 2\Exercies\BaiTapFile\BaiTapFile\obj\Debug\netcoreapp3.1\BaiTapFile.genruntimeconfig.cache

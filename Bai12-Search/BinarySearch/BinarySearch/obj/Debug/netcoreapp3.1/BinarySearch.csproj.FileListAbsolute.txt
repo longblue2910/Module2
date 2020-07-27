@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
+C:\Users\Long\Documents\Module 2\Bai12-Search\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache

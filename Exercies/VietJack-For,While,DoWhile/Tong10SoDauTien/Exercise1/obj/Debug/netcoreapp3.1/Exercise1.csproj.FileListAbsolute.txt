@@ -1,0 +1,13 @@
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\Long\Documents\Module 2\Exercies\VietJack-For,While,DoWhile\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
